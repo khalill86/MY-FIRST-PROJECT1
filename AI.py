@@ -188,6 +188,6 @@ if role == "user":
             attempts += 1
             print("Wrong password")
 
-    print("\nAccess denied ✖")
+    print("\nAccess denied ")
     exit()
 
